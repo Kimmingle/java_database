@@ -14,3 +14,8 @@
     	</li>
     </ul>
 </nav>
+
+</nav>
+<nav id="tnb" style="float:right;">
+	<a href="index.jsp">메인으로</a>
+</nav>
